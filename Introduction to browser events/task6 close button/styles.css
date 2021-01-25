@@ -6,8 +6,12 @@ div{
     padding: 3%;
 }
 
+
+
 button{
+    width: auto;
     float: right;
     background-color: transparent;
     border: transparent;
 }
+
