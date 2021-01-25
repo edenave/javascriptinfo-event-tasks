@@ -1,0 +1,13 @@
+div{
+    width: 50%;
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2%;
+    padding: 3%;
+}
+
+button{
+    float: right;
+    background-color: transparent;
+    border: transparent;
+}
